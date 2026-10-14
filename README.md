@@ -52,11 +52,11 @@ The `archives/` directories are created when the archive option is used.
 
 ## Video Demonstration
 
-** The following links provide a demonstration of the Project Deployment Agent:**
+The following links provide a demonstration of the Project Deployment Agent:
 
-1. YouTube: https://youtu.be/JSqLfRWJzeI
+1. YouTube: https://youtu.be/v5W0q-K8ODY
 
-2. Google Drive backup: https://drive.google.com/file/d/1d7XJQVyuwZdgvakkRN96AQSFlhhaa9pN/view?usp=sharing
+2. Google Drive backup: https://drive.google.com/file/d/1TLkcPzC3UGbN-kiH4SzYE1ZNerSAZOOG/view?usp=sharing
 
 
 ## Installation
