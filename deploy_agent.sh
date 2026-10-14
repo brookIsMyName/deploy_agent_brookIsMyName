@@ -325,8 +325,18 @@ case "$choice" in
               echo "something went wrong while trying to copy the archived logs"
           fi
       else
-           echo "the log file itself may not existtt"
+           echo "the attendance log file itself does not existtt"
       fi
+
+       if [[ -f "$directory/reports/absent.log" ]]; then
+          if cp "$directory/reports/absent.log" "$directory/archives/absent/absent_$timestamp.log"; then
+             echo "Absent log also archive successfully"
+          else
+             echo "error while copying the absent log"
+          fi
+       else
+           echo "absent.log was not found"
+       fi
        ;;
    4)
        echo "Goodbyeee"
