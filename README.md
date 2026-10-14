@@ -50,6 +50,15 @@ attendance_tracker_<name>/
 
 The `archives/` directories are created when the archive option is used.
 
+## Video Demonstration
+
+** The following links provide a demonstration of the Project Deployment Agent:**
+
+1. YouTube: https://youtu.be/JSqLfRWJzeI
+
+2. Google Drive backup: https://drive.google.com/file/d/1d7XJQVyuwZdgvakkRN96AQSFlhhaa9pN/view?usp=sharing
+
+
 ## Installation
 
 1. Clone or download this repository.
@@ -84,8 +93,8 @@ Follow the menu prompts.
 3. Select a roster option:
 
 ##### PLEASE MAKE SURE NOT TO SAY MORE THAT 4 STUDENTS, as that is the max number of student records we have for this assignment :)
-   - **A — Existing roster:** Choose how many student records to copy from the template.
-   - **B — Fresh roster:** Generate a sample roster with zero attendance and absence counts.
+   - **A Existing roster:** Choose how many student records to copy from the template.
+   - **B Fresh roster:** Generate a sample roster with zero attendance and absence counts.
 4. Enter the warning threshold between 0 and 100.
 5. Enter the failure threshold between 0 and 100, ensuring it is lower than the warning threshold.
 
